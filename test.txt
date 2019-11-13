@@ -5,3 +5,7 @@ Second line added...
 
 
 Closed
+
+Feature 1
+
+Feature 2
