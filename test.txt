@@ -9,3 +9,5 @@ Closed
 Feature 1
 
 Feature 2
+
+Branch closed successfully...
