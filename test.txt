@@ -5,3 +5,7 @@ Second line added...
 
 
 Closed
+
+Master Feature 1
+
+Master Feature 2
